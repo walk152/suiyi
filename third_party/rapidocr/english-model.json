@@ -1,0 +1,10 @@
+{
+  "file": "ocr_models/en_PP-OCRv4_rec_mobile.onnx",
+  "bytes": 7653044,
+  "sha256": "e8770c967605983d1570cdf5352041dfb68fa0c21664f49f47b155abd3e0e318",
+  "source": "https://www.modelscope.cn/models/RapidAI/RapidOCR/resolve/v3.9.2/onnx/PP-OCRv4/rec/en_PP-OCRv4_rec_mobile.onnx",
+  "upstream_manifest": "https://github.com/RapidAI/RapidOCR/blob/main/python/rapidocr/default_models.yaml",
+  "license": "Apache-2.0",
+  "copyright": "PaddlePaddle Authors; RapidAI/RapidOCR contributors",
+  "changes": "Unmodified converted ONNX weights; selective English-line recognition only."
+}

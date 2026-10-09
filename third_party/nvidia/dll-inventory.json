@@ -1,0 +1,114 @@
+[
+  {
+    "component": "cublas",
+    "package_version": "12.9.2.10",
+    "file": "cublas64_12.dll",
+    "bytes": 102518272,
+    "sha256": "52ce5ba0ec5327d39be6021f0f9362d2ed4d64d7206f9b5afc06398d827b8e82"
+  },
+  {
+    "component": "cublas",
+    "package_version": "12.9.2.10",
+    "file": "cublasLt64_12.dll",
+    "bytes": 668673536,
+    "sha256": "71705a7cf0923f4ab034d0d2620bbfc989ff669ac3d79f868b7a7c597ca559c5"
+  },
+  {
+    "component": "cublas",
+    "package_version": "12.9.2.10",
+    "file": "nvblas64_12.dll",
+    "bytes": 334848,
+    "sha256": "f54ac264becdb8ac866cbc0cce74f1dfe0e0c1f6e60a0629f222490d210302cd"
+  },
+  {
+    "component": "cuda_nvrtc",
+    "package_version": "12.9.86",
+    "file": "nvrtc-builtins64_129.dll",
+    "bytes": 7217664,
+    "sha256": "c405226b0b394ed8bdc593bb1419b94a989f93248ed2873e8f2e0e27c1688ca1"
+  },
+  {
+    "component": "cuda_nvrtc",
+    "package_version": "12.9.86",
+    "file": "nvrtc64_120_0.alt.dll",
+    "bytes": 89899520,
+    "sha256": "ac56a4d3b5a99f294523abec28b8f648b96324a9277622a450ec20ddb9e2c47d"
+  },
+  {
+    "component": "cuda_nvrtc",
+    "package_version": "12.9.86",
+    "file": "nvrtc64_120_0.dll",
+    "bytes": 89832960,
+    "sha256": "0cc63349fedffeec1660b30955e8028b6e4e4c26cf1e41c56dc4569fd5eca82c"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn64_9.dll",
+    "bytes": 270448,
+    "sha256": "7268ef53e32c2c574372326dfc9d94a26095f4ed9c89dba87cfb3ab1e40a6470"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_adv64_9.dll",
+    "bytes": 270983792,
+    "sha256": "712ace96559e60b5be81a1097acb7609f601ff4cd0cdef848b013d671753b4b4"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_cnn64_9.dll",
+    "bytes": 2997872,
+    "sha256": "dff4c446c855b3ab2d486aebf4c11388cf74da14d7bd0bfafb61c3a75481313d"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_engines_precompiled64_9.dll",
+    "bytes": 528169072,
+    "sha256": "6b603ac45fc018a96f014d0c6cdbc8f480dce2dbe33b8ca38228a4e4c531f3fe"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_engines_runtime_compiled64_9.dll",
+    "bytes": 45452912,
+    "sha256": "f92f4776261e4409aa9f84357c40bc3626700292a1d22025746388bea43ae11b"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_engines_tensor_ir64_9.dll",
+    "bytes": 156272,
+    "sha256": "d7380a7c4ad90590968e97b4d8b43a616e7e0070bfdeeee04c4d0be85ad52394"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_ext64_9.dll",
+    "bytes": 130160,
+    "sha256": "f20888488b701e429830e19cf59022e90a0c5dd398723162ea9f320b3ca06636"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_graph64_9.dll",
+    "bytes": 99919472,
+    "sha256": "445e8c3e44a6a6035749380009ae35ae8c2bc246428229b79545a25238bb56e2"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_heuristic64_9.dll",
+    "bytes": 94795376,
+    "sha256": "0634af738266cd36c912e99cd3807ee452450e963bf885be204fdcfb322cfc70"
+  },
+  {
+    "component": "cudnn",
+    "package_version": "9.27.0.42",
+    "file": "cudnn_ops64_9.dll",
+    "bytes": 105686640,
+    "sha256": "390bfe103a244c714fca5a1320950ba51a3173a7fbd6664ed535ce7367891ccd"
+  }
+]

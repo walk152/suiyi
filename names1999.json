@@ -1,0 +1,711 @@
+{
+  "version": 1,
+  "checked": "2026-10-05",
+  "sources": [
+    "https://www.prydwen.gg/re1999/characters",
+    "https://r1999logs.neocities.org/MAIN%20STORY/Tender_is_the_Night"
+  ],
+  "note": "角色名事实索引；非官方、非全部NPC。中文别名只收录部分；识别提示以英文为准。Zima 为 Зима 的常见转写。",
+  "names": [
+    {
+      "en": "37",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "6",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "A Knight",
+      "zh": "未锈铠",
+      "auto": false
+    },
+    {
+      "en": "Aleph",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Alexios",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "aliEn T",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "An-an Lee",
+      "zh": "泥鯭的士",
+      "auto": true
+    },
+    {
+      "en": "Anjo Nala",
+      "zh": "天使娜娜",
+      "auto": true
+    },
+    {
+      "en": "APPLe",
+      "zh": "APPLe",
+      "auto": false
+    },
+    {
+      "en": "Argus",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Avgust",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Baby Blue",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Balloon Party",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Barbara",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Barcarola",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Beryl",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Bette",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Bkornblume",
+      "zh": "柏林以东",
+      "auto": true
+    },
+    {
+      "en": "Blonney",
+      "zh": "金蜜儿",
+      "auto": true
+    },
+    {
+      "en": "Brimley",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Brume",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Buddy Fairchild",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Bunny Bunny",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Centurion",
+      "zh": "百夫长",
+      "auto": true
+    },
+    {
+      "en": "Charlie",
+      "zh": "夏利",
+      "auto": true
+    },
+    {
+      "en": "Charon",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Cheng Heguang",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Click",
+      "zh": "喀嚓喀嚓",
+      "auto": false
+    },
+    {
+      "en": "Coppélia",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Cornerstone",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Corvus",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Cristallo",
+      "zh": "星之眼",
+      "auto": true
+    },
+    {
+      "en": "Darley Clatter",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Desert Flannel",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Diggers",
+      "zh": "挖掘艺术",
+      "auto": true
+    },
+    {
+      "en": "Dikke",
+      "zh": "帕米埃",
+      "auto": true
+    },
+    {
+      "en": "Door",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Druvis III",
+      "zh": "槲寄生",
+      "auto": true
+    },
+    {
+      "en": "Eagle",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Enigma",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Erick",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Eternity",
+      "zh": "温妮弗雷德",
+      "auto": false
+    },
+    {
+      "en": "Everecho",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ezio Auditore",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ezra Theodore",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Fatutu",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Flutterpage",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Getian",
+      "zh": "葛天",
+      "auto": true
+    },
+    {
+      "en": "Glyndŵr",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Hedone",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Hissabeth",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Horropedia",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Huntsworn Lilya",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Igor",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Isolde",
+      "zh": "伊索尔德",
+      "auto": true
+    },
+    {
+      "en": "J",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Jessica",
+      "zh": "洁西卡",
+      "auto": true
+    },
+    {
+      "en": "Jiu Niangzi",
+      "zh": "曲娘",
+      "auto": true
+    },
+    {
+      "en": "John Titor",
+      "zh": "约翰·提托",
+      "auto": true
+    },
+    {
+      "en": "Kaalaa Baunaa",
+      "zh": "伽菈波那",
+      "auto": true
+    },
+    {
+      "en": "Kakania",
+      "zh": "卡卡尼亚",
+      "auto": true
+    },
+    {
+      "en": "Kanjira",
+      "zh": "坎吉拉",
+      "auto": true
+    },
+    {
+      "en": "Kassandra",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Kiperina",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "La Source",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Leilani",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Liang Yue",
+      "zh": "梁月",
+      "auto": true
+    },
+    {
+      "en": "Lilya",
+      "zh": "红弩箭",
+      "auto": true
+    },
+    {
+      "en": "Loggerhead",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Lopera",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Lorelei",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Lorentz Butterfly",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Lucy",
+      "zh": "露西",
+      "auto": true
+    },
+    {
+      "en": "Marcus",
+      "zh": "马库斯",
+      "auto": true
+    },
+    {
+      "en": "Marsha",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Matilda",
+      "zh": "玛蒂尔达",
+      "auto": true
+    },
+    {
+      "en": "Medicine Pocket",
+      "zh": "兔毛手袋",
+      "auto": false
+    },
+    {
+      "en": "Melania",
+      "zh": "梅兰妮",
+      "auto": true
+    },
+    {
+      "en": "Mercuria",
+      "zh": "环状水星",
+      "auto": true
+    },
+    {
+      "en": "Mesmer Jr.",
+      "zh": "小梅斯梅尔",
+      "auto": true
+    },
+    {
+      "en": "Moldir",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Mondlicht",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Mr. Duncan",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ms. Moissan",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ms. NewBabel",
+      "zh": "新巴别塔",
+      "auto": true
+    },
+    {
+      "en": "Ms. Radio",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ms. Stranger",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Name Day",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Narcissus",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Nautika",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Necrologist",
+      "zh": "讣告人",
+      "auto": true
+    },
+    {
+      "en": "Nick Bottom",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Noire",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "NORA",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Oliver Fog",
+      "zh": "雾行者",
+      "auto": true
+    },
+    {
+      "en": "ONiON",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Paper Heron",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Pavia",
+      "zh": "狼群",
+      "auto": true
+    },
+    {
+      "en": "Pickles",
+      "zh": "皮克勒斯",
+      "auto": false
+    },
+    {
+      "en": "Pioneer",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Poltergeist",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Rabies",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Ramona",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Recoleta",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Reed",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Regulus",
+      "zh": "星锑",
+      "auto": true
+    },
+    {
+      "en": "Rhiannon",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Rubuska",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Satsuki",
+      "zh": "五色月",
+      "auto": true
+    },
+    {
+      "en": "Semmelweis",
+      "zh": "塞梅尔维斯",
+      "auto": true
+    },
+    {
+      "en": "Sentinel",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Shamane",
+      "zh": "鬃毛沙砾",
+      "auto": true
+    },
+    {
+      "en": "Silverwing Eagle",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Sonetto",
+      "zh": "十四行诗",
+      "auto": true
+    },
+    {
+      "en": "Sotheby",
+      "zh": "苏芙比",
+      "auto": true
+    },
+    {
+      "en": "Spathodea",
+      "zh": "可燃点",
+      "auto": true
+    },
+    {
+      "en": "Sputnik",
+      "zh": "人造梦游",
+      "auto": true
+    },
+    {
+      "en": "Sweetheart",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Tennant",
+      "zh": "坦南特",
+      "auto": true
+    },
+    {
+      "en": "The Fool",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "The Twins",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Tooth Fairy",
+      "zh": "牙仙",
+      "auto": false
+    },
+    {
+      "en": "TTT",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Tuesday",
+      "zh": "笃笃骨",
+      "auto": false
+    },
+    {
+      "en": "Twins Sleep",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ulrich",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Ulu",
+      "zh": "",
+      "auto": true
+    },
+    {
+      "en": "Vila",
+      "zh": "维拉",
+      "auto": true
+    },
+    {
+      "en": "Voyager",
+      "zh": "远旅",
+      "auto": false
+    },
+    {
+      "en": "White Rum",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Willow",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Windsong",
+      "zh": "北方哨歌",
+      "auto": true
+    },
+    {
+      "en": "Zima",
+      "zh": "冬",
+      "auto": true
+    },
+    {
+      "en": "X",
+      "zh": "",
+      "auto": false
+    },
+    {
+      "en": "Yenisei",
+      "zh": "叶尼塞",
+      "auto": true
+    },
+    {
+      "en": "Vertin",
+      "zh": "维尔汀",
+      "auto": true
+    },
+    {
+      "en": "Schneider",
+      "zh": "斯奈德",
+      "auto": true
+    },
+    {
+      "en": "Arcana",
+      "zh": "阿尔卡纳",
+      "auto": true
+    },
+    {
+      "en": "Constantine",
+      "zh": "康斯坦丁",
+      "auto": true
+    },
+    {
+      "en": "Madam Z",
+      "zh": "Z女士",
+      "auto": true
+    }
+  ]
+}

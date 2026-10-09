@@ -1,0 +1,2 @@
+# CPU-capable runtime; GPU libraries are optional.
+-r requirements-lock.txt
